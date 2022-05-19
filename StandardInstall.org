@@ -228,3 +228,6 @@
        + Start run
        + Refresh
        + Try making a gate
+
+* Extra random stuff
+ - To get ssh authorized keys working on encrypted drive: https://help.ubuntu.com/community/SSH/OpenSSH/Keys#Troubleshooting
