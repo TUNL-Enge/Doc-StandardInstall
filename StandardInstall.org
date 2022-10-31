@@ -145,11 +145,11 @@
     A bunch of useful LaTeX stuff
     #+BEGIN_SRC sh
     sudo apt install texlive texlive-base auctex preview-latex-style \
-            texlive-fonts-recommended texlive-generic-recommended \
-            texlive-generic-extra texlive-latex-recommended-doc \
+            texlive-fonts-recommended \
+            texlive-latex-recommended-doc \
             texlive-science libpgf-dev \
             texlive-pictures texlive-pstricks texlive-publishers \
-            xfig
+            xfig texinfo
     #+END_SRC
 ** Networking
    + Setup the hosts file. ~sudo nano /etc/hosts~
@@ -189,13 +189,13 @@
       + Documents, Downloads, Music, Pictures, Templates, Videos
 ** Install other things by hand
    - root6
-     See my instructions here: [[http://engesrv.physics.ncsu.edu/Docs/InstallRoot]]
+     See my instructions here: [[https://github.com/TUNL-Enge/Doc-InstallRoot]]
    - NSCLDAQ
      See my instructions here: [[http://engesrv.physics.ncsu.edu/Docs/NSCLDAQ]]
    - EPICS client
      See my instructions here: [[http://engesrv.physics.ncsu.edu/Docs/EPICSClient]]
    - MIDAS
-     See my instructions here:  [[http://engesrv.physics.ncsu.edu/Docs/MIDAS]]
+     See my instructions here:  [[https://github.com/TUNL-Enge/Doc-InstallMIDAS]]
 ** Install EngeSpec
    + Prerequisites
      #+BEGIN_SRC sh
