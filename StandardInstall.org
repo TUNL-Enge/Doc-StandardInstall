@@ -193,7 +193,7 @@
    - NSCLDAQ
      See my instructions here: [[http://engesrv.physics.ncsu.edu/Docs/NSCLDAQ]]
    - EPICS client
-     See my instructions here: [[http://engesrv.physics.ncsu.edu/Docs/EPICSClient]]
+     See my instructions here: [[https://github.com/TUNL-Enge/Doc-EPICSClient]]
    - MIDAS
      See my instructions here:  [[https://github.com/TUNL-Enge/Doc-InstallMIDAS]]
 ** Install EngeSpec
